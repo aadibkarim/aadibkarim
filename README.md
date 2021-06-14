@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aadibkarim, Electrical Engineering Junior 
-- 👀 I’m interested in Embedded Systems & Software Development
+- 👀 I’m interested in Software Development & Embedded Systems  
 - 🌱 I’m currently learning C++, JAVA, Digital Systems & Electronics
 
 
